@@ -1,4 +1,4 @@
-# 💳 FinGuard-Real-Time-Fraud-Monitoring
+# 💳 FinGuard-AI Real-Time-Fraud-Monitoring
 
 [![Demo Screenshot](https://img.shields.io/badge/📸_Demo-Live_Screenshot-red?style=for-the-badge)](#demo-screenshot)
 [![Docker](https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge&logo=docker)](https://docker.com)
@@ -7,21 +7,13 @@
 
 > **Production-ready real-time fraud detection system using machine learning, streaming data pipelines, and interactive dashboards.**
 
-## 🎥 Demo Screenshot
-
-![Fraud Detection Dashboard](dashboard-demo.png)
-
-*Live dashboard showing real-time fraud detection with transaction monitoring, alerts, and ML model insights*
-
-> **Live demo available on request** - Contact for system demonstration
-
 ---
 
 ## 🏗️ System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
-│                          🏦 REAL-TIME FRAUD MONITORING SYSTEM                   │
+│                          🏦 FINGUARD-AI (REAL-TIME FRAUD MONITORING SYSTEM)                  │
 └─────────────────────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
@@ -275,6 +267,14 @@ eventSource.onmessage = (event) => {
     updateDashboard(JSON.parse(event.data));
 };
 ```
+## 🎥 Demo Screenshot
+
+![Fraud Detection Dashboard](dashboard-demo.png)
+
+*Live dashboard showing real-time fraud detection with transaction monitoring, alerts, and ML model insights*
+
+> **Live demo available on request** - Contact for system demonstration
+
 
 ---
 
