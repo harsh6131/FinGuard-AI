@@ -1,4 +1,4 @@
-# 💳 FinGuard-AI Real-Time-Fraud-Monitoring
+# 💳 FinGuard-AI (Real-Time-Fraud-Monitoring)
 
 [![Demo Screenshot](https://img.shields.io/badge/📸_Demo-Live_Screenshot-red?style=for-the-badge)](#demo-screenshot)
 [![Docker](https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge&logo=docker)](https://docker.com)
