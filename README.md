@@ -438,9 +438,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Gaurav Rai**
-- 🌐 GitHub: [@raiigauravv](https://github.com/raiigauravv)
-- 📧 Email: [your-email@domain.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 🌐 GitHub: [Harshvardhan Singh](https://github.com/harsh6131)
+- 📧 Email: [singhharsh6131@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/harshvardhan-singh6131/]
 
 ---
 
